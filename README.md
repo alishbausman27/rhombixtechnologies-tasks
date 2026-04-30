@@ -1,0 +1,5 @@
+## Task 2 – Task Manager Dashboard
+
+The task manager dashboard is designed with a clean and structured layout, including a sidebar, top bar, and task cards for clear information display. Consistent styling, spacing, and color usage ensure readability and a user-friendly experience.
+
+🔗 [View Figma Design](https://www.figma.com/design/4b2sJCB4F8WXRUvN9ZVUsg/Task-2--Task-Manager-Dashboard-Rhombix-technologies-?node-id=0-1&t=esSIE59OtWao81GN-1)
